@@ -39,7 +39,7 @@ Global Superstore dataset has been prepared in excel file with three sheets - Or
 * People  - 24 rows and 2 columns
 * Returns - 1079 rows and 3 columns
 
-* Dataset Link - 
+* Dataset Link -  https://powerbidocs.com/wp-content/up...
 * If u check the entries in the dataset , you will see that the store caters to 7 different geographical market segments and 3 major customer segments i.e. 'consumer', 'corporate' and 'Home office'.
 
 # DATASET - Discription (USED)
@@ -59,7 +59,7 @@ Global Superstore dataset has been prepared in excel file with three sheets - Or
 * And do some more cleaning ....
 
 # 🖥️ Installation
-* Power BI Desktop installation link - 
+* Power BI Desktop installation link -  https://powerbi.microsoft.com/en-us/d...
 
 
 # My Project
